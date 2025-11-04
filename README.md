@@ -18,8 +18,8 @@ The notebook walks through the process step by step — from handling missing va
 
 ##  Data Cleaning Steps
 
-| Step | Description |
-|-------|-------------|
+| Step |
+|-------|
 | Missing values detected using `.isna()` |
 | Imputed missing *Item* values with `"Unknown"` |
 | Filled missing *Price Per Unit* using **category-level averages**  |
