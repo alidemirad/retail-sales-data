@@ -65,3 +65,7 @@ The notebook walks through the process step by step — from handling missing va
 
 You can open the `.ipynb` notebook directly in Jupyter Notebook, JupyterLab, or Google Colab.  
 No additional setup is required other than having Python with Pandas, NumPy, and Matplotlib installed.
+
+ **View the Notebook:**  
+[Open retail_sales_analysis.ipynb](notebooks/retail_sales_analysis.ipynb)
+
